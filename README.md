@@ -5,7 +5,9 @@ Hello! I’m Banay, I am an aspiring software engineer in the final stages of my
 
 I'm excited to blend my technical skills with my creative vision to craft unique and engaging gaming experiences. My goal is to inspire others, especially young learners, to dive into the world of technology. I aim to make a positive impact in the tech industry by creating games that entertain, educate, and inspire, all while promoting a collaborative and inclusive atmosphere in my future projects.<br><br>
 
-# 🌟 What I Do<br>Software Development: I enjoy building and refining applications, focusing on both backend and frontend development.<br>Open Source Contributions: I actively contribute to open-source projects, collaborating with the community to enhance and optimize software.<br>Problem Solving: I thrive on tackling complex challenges and finding efficient, elegant solutions.<br><br>
+# 🌟 What I Do<br>
+Software Development: I enjoy building and refining applications, focusing on both backend and frontend development.<br>
+Problem Solving: I am learning how to tackle complex challenges and find efficient, smart solutions.<br><br>
 
 # 🚀 Technologies & Skills<br>
 Programming Languages: C, Java, Python, JavaScript<br>
