@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 Hello! I’m Banay, a passionate developer interested in creating innovative solutions and exploring new technologies. My GitHub is a showcase of my journey through various projects and technologies, reflecting my commitment to continuous learning and improvement.<br><br>🌟 What I Do<br>Software Development: I enjoy building and refining applications, focusing on both backend and frontend development.<br>Open Source Contributions: I actively contribute to open-source projects, collaborating with the community to enhance and optimize software.<br>Problem Solving: I thrive on tackling complex challenges and finding efficient, elegant solutions.<br><br>🚀 Technologies & Skills<br>Programming Languages: C, Java, Python, JavaScript<br>
