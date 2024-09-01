@@ -7,14 +7,17 @@ I'm excited to blend my technical skills with my creative vision to craft unique
 
 # 🌟 What I Do<br>Software Development: I enjoy building and refining applications, focusing on both backend and frontend development.<br>Open Source Contributions: I actively contribute to open-source projects, collaborating with the community to enhance and optimize software.<br>Problem Solving: I thrive on tackling complex challenges and finding efficient, elegant solutions.<br><br>
 
-# 🚀 Technologies & Skills<br>Programming Languages: C, Java, Python, JavaScript<br>
+# 🚀 Technologies & Skills<br>
+Programming Languages: C, Java, Python, JavaScript<br>
 Frameworks & Tools: Flask, Django, Bootstrap<br>
 Front-End: HTML, CSS, JavaScript<br>
 APIs & AJAX: Experienced in integrating RESTful APIs and utilizing AJAX for dynamic content loading<br>
 Databases: MySQL<br>
 Version Control: Git, GitHub<br><br>
 
-# 🔧 Projects<br>Project 1: Reading and Writing Books Website: This website connects readers and writers in a dynamic book community. Readers can build personal libraries, engage in discussions, and organize their collections. Writers can publish and manage their works, interact with readers, and host book events. Both groups benefit from tailored interfaces and functionalities to enhance their experience.<br><br>Project 2: Welcome to the Need for Speed Delivery Management project! Our platform transforms delivery services in Palestine with an intuitive and efficient system. Designed to streamline order processing and boost operational efficiency, it offers real-time tracking and a robust notification system. Separate interfaces for admins and users ensure a tailored experience for all, enhancing overall customer satisfaction.<br><br>
+# 🔧 Projects<br>
+Project 1: Reading and Writing Books Website: This website connects readers and writers in a dynamic book community. Readers can build personal libraries, engage in discussions, and organize their collections. Writers can publish and manage their works, interact with readers, and host book events. Both groups benefit from tailored interfaces and functionalities to enhance their experience.<br><br>
+Project 2: Welcome to the Need for Speed Delivery Management project! Our platform transforms delivery services in Palestine with an intuitive and efficient system. Designed to streamline order processing and boost operational efficiency, it offers real-time tracking and a robust notification system. Separate interfaces for admins and users ensure a tailored experience for all, enhancing overall customer satisfaction.<br><br>
 
 #📫 Get in Touch<br>Email: bayan.sarari97@gmail.com<br>LinkedIn: https://www.linkedin.com/in/bayan-abu-sarari-467893261/<br>Twitter: https://x.com/YuriAsuna97<br>
 
